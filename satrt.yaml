@@ -5,7 +5,7 @@ metadata:
 spec:
   containers:
   - name: k8s-demo-ctr
-    image: k8s-test
+    image: guspetv/k8s-test
     resources:
       limits:
         cpu: "1"
